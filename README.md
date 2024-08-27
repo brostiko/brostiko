@@ -49,6 +49,4 @@ Brostiko is poised to revolutionize memory sharing and experience. With its inno
 
 [Directory from the C. E.O And Board of Ownership.]
 
-Note: This article provides a comprehensive overview of Brostiko, covering its purpose, technologies, applications, and future prospects. Brostiko is already an ongoing process under development,  my vision is to impower the African community with full access to the tech world. It's going to be an open source free tool. We are able to secure a legitimate partnership profile with goggle Inc and Microsoft Inc as they have released their assets for the project development. Docker offer lifetime hosting for the brostiko Operating system as its going to be a free open source collaboration. We have all the AI Tech tools and required licenses to embark on this journey and we are calling for all open source verified companies to please give us an acceptance into your resources to make this journey a perfect one. 
-We have created a  Whatsapp channels for contributors to share their own thoughts on the project.```
-https://whatsapp.com/channel/0029Val9DG9Jpe8oYOPnDs2P
+Note: This article provides a comprehensive overview of Brostiko, covering its purpose, technologies, applications, and future prospects. Brostiko is already an ongoing process under development,  my vision is to impower the African community with full access to the tech world.
